@@ -5,7 +5,7 @@
 - 🔭 Estou em um projeto de desenvolver um sistemas de pedidos em um restaurante;
 - 🌱 Estou estudando: C, Python, Java;
 - 👯 Busco sempre em atingir os melhores resultados e ajudar a equipe de trabalho; 
-- 😄 Pronouns: ele/dele.
+
 
   <div style="display: inline_block"><br>
 
